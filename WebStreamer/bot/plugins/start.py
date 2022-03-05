@@ -28,7 +28,7 @@ HELP_TEXT = """
 
 ABOUT_TEXT = """
 <b>⚜ Mʏ ɴᴀᴍᴇ : File 2 Link SHD</b>\n
-<b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/SAHEEDS_BOTS'>Aᴠɪsʜᴋᴀʀ Pᴀᴛɪʟ</a></b>\n
+<b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/SAHEEDS_BOTS'>SAHEEDs BOTs</a></b>\n
 <b>🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : <a href='https://t.me/SAHEEDS_BOTS'>[ 25-Feb-22 ] 04:35 PM</a></b>"""
 
 START_BUTTONS = InlineKeyboardMarkup(
